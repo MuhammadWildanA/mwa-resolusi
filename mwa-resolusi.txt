@@ -1,5 +1,4 @@
 MWA RESOLUSI
 - Konsisten belajar ngoding 10 jam perhari
-- Belajar HTML CSS
 - Belajar FrontEnd
 - Belajar BackEnd
