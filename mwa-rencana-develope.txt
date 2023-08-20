@@ -1,4 +1,6 @@
 - Mempelajari c#
   *Membuat Media Player
+   ^Wajib untuk Sekolah
   *Membuat game
+   ^Membuat game simple teka-teki
 
