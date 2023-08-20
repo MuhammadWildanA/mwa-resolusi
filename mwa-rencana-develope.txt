@@ -1,0 +1,4 @@
+- Mempelajari c#
+  *Membuat Media Player
+  *Membuat game
+
